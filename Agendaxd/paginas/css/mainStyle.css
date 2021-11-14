@@ -4,8 +4,14 @@ html {
     background-color: honeydew;
     position: relative;
 }
+li {
+    border: 1px solid black;
+}
+head {
+    align-content: center;
+}
 body {
-    margin: 0 0 40px;
+    margin: 2px 2px 40px;
 }
 footer {
     position: absolute;
@@ -32,4 +38,8 @@ footer {
 a {
     color: black;
     text-decoration: solid;
+}
+#divdelista {
+    width: 500px;
+    margin: 2px;
 }
